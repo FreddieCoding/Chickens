@@ -1,0 +1,118 @@
+DOCTYPE html>
+<!--A practice website to add everything i know onto-->
+<html>
+<head>
+
+<label for="file">Downloading progress:</label>
+<progress id="file" value="75" max="100"> 75% </progress>
+
+<body background="https://media.istockphoto.com/id/171572686/photo/hen-in-a-meadow.jpg?s=612x612&w=0&k=20&c=swskTYNxJfaHuP1u1dcmBOD4o_-ljGgSGUMgwEbOxaA=" name="background1">
+
+<audio autoplay loop>
+<source src="https://quicksounds.com/sound/2909/chickens-in-a-barn-6"
+type=audio/mpeg>
+Audio not supported
+</audio>
+</head>
+
+<body bgcolor="darkseagreen">
+
+<br>
+
+<body>
+  <b>
+	<u>
+	  <font face="helvetica">
+	  <h1 style="font-size:20;">Chickens</h1>
+	  </font>
+	</u>
+  </b>
+
+<font face="helvetica">
+  <p>Sign up to our Newsletter on tips all about keeping and raising chickens.</p>
+
+  <form>
+	<label>Email:</label>
+	<input type="text" Name="Email" value="example">
+	<select>
+	  <option>@gmail.com</option>
+	  <option>@outlook.com</option>
+	  <option>@yahoo.com</option>
+	</select>
+	<input type="submit">
+  </form>
+</font>
+	
+<hr width=380 height=10>
+	
+<b>
+  <u>
+	<font face="helvetica">
+	  <p>Breeds of Chickens:</p> 
+	</font>
+  </u>
+</b>
+	
+<ul>
+   <font face="helvetica">
+   <b>
+	 <li>Rhode Island Red chicken</li>
+	 <li>Leghorn chicken</li>
+	 <li>silkie chicken</li>
+	 <li>sussex chicken</li>
+	 <li>Brahma chicken</li>
+	 <li>Orpington chicken</li>
+	 <li>Maran chicken</li>
+	 <li>Polish chicken</li>
+	 <li>cochin chicken</li>
+	 <li>plymouth rock chicken</li>
+	 <li>The Azur</li>
+	 <li>amerecauna</li>
+   </b>
+   </font>
+</ul>
+<br><br><br><br>
+
+<hr width=380 height=10>
+
+<font face="helvetica">
+  <b><u>
+	<p>Interesting Facts about Chickens</p>
+  </b></u>
+  
+  <p>both the Azur and the amerecauna are bred for their unique coloured shells.</p>
+  <p>Chickens communicate with chicks while inisde the egg.</p>
+  <p>Chickens have a great memory for remembering faces.</p>
+  <p>chickens can see colours better than humans.</p>
+  <p>The oldest chicken in the world was 22 years old when it died.</p>
+  <p>Chickens can run up to 9Mph.</p>
+  <p>The longest flight time for a chicken is 13 seconds.</p>
+</font>
+
+<hr width=380 height=10>
+
+<h1>My Chickens</h1>
+<img src="https://share.icloud.com/photos/016nBVocDSmms9i7s6yKE84dQ" width="375px" border="2px">
+
+<hr width=380 height=10>
+
+<p>below if a video of chickens</p>
+<video width=380px border=20 controls>
+   <source src="https://youtube.com/shorts/SxGxYjb9vUA?si=nNJjW3u6MIfOOilY" type="video/Mp4 format3" border="2px">
+video not supported
+</video>
+
+<font face="helvetica">
+<b>
+  <p>Below is the distrubution of chickens across the world.</p>
+</b>
+</font>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/GLW_2_global_distributions_of_c%29_chickens.tif/lossy-page1-1280px-GLW_2_global_distributions_of_c%29_chickens.tif.jpg" name=img2 width="375px" border="2px">
+
+<footer name="footer1">Any questions please email: example@gmail.com</footer>
+<footer name="footer2">Your orders</footer>
+<footer name="footer3">Your account</footer>
+<footer name="footer4">Unsubscribe from newsletter</footer>
+
+</body>
+</html>
